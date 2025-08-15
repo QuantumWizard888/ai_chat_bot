@@ -1,0 +1,71 @@
+Например, вот что мы делали: Система распознавания уровня безопасности на промышленном производстве на основе видеоданных. Ссылка: https://eora.ru/cases/promyshlennaya-bezopasnost
+---
+Например, вот что мы делали: Система для сегментации и поиска по похожей одежде для интернет-магазина Lamoda. Ссылка: https://eora.ru/cases/computer-vision/lamoda-systema-segmentacii-i-poiska-po-pohozhey-odezhde
+---
+Например, вот что мы делали: Голосовой ассистент в обличье карася. Ссылка: https://eora.ru/cases/navyki-dlya-golosovyh-assistentov/karas-golosovoy-assistent
+---
+Например, вот что мы делали: Чат-боты и навыки в голосовых ассистентах помогают туристам ориентироваться по городам, а жителям решать свои задачи используя информацию о возможностях города и его инфраструктуре. К примеру, подобный навык был внедрен в умную приставу "Алиса" от Яндекс. Ссылка: https://eora.ru/cases/navyki-dlya-golosovyh-assistentov/assistenty-dlya-gorodov
+---
+Например, вот что мы делали: Система распознавания рукописных химических схем. Заказчиком выступил «Химрар» — российская фармацевтическая компания. Ссылка: https://eora.ru/cases/avtomatizaciya-v-promyshlennosti/chemrar-raspoznovanie-molekul
+---
+Например, вот что мы делали: Интерактивные сказки про Ам Няма для умной приставки от «Сбера». Ссылка: https://eora.ru/cases/navyki-dlya-golosovyh-assistentov/skazki-pro-amnyama-dlya-sberbox
+---
+Например, вот что мы делали: Алгоритм для оценки игроков в Counter Strike, Dota и World of Tanks. Ссылка: https://eora.ru/cases/computer-vision/goosegaming-algoritm-dlya-ocenki-igrokov
+---
+Например, вот что мы делали: Робот-аналитик отзывов в приложении «Додо Пиццы». Ссылка: https://eora.ru/cases/computer-vision/dodo-pizza-robot-analitik-otzyvov
+---
+Например, вот что мы делали: Нейросеть, которая определяет вес салата по фото. Заказчиком выступил iFarm - российский ИТ-стартап, который строит вертикальные фермы с программным управлением для выращивания ягод, овощей, зелени. Ссылка: https://eora.ru/cases/computer-vision/ifarm-nejroset-dlya-ferm
+---
+Например, вот что мы делали: Навык в Алисе для проверки родинок. Разработа велась в рамках социального проекта «Живи без страха». Его цель – побудить людей чаще проверяться на рак. Ссылка: https://eora.ru/cases/navyki-dlya-golosovyh-assistentov/navyk-dlya-proverki-rodinok
+---
+Например, вот что мы делали: Нейросеть, которая управляет трансляцией матча, используя камеры с ИИ-управлением. Клиент: Sportrecs.com - российский стартап, сервис спортивных трансляций. Ссылка: https://eora.ru/cases/computer-vision/sportrecs-nejroset-operator-sportivnyh-translyacij
+---
+Например, вот что мы делали: Чат-бот, помогающий женщинам подобрать подарки для мужчин, через социальную сеть «Вконтакте». Заказчик: AVON. Ссылка: https://eora.ru/cases/chat-boty/avon-chat-bot-dlya-zhenshchin
+---
+Например, вот что мы делали: Навык голосового ассистента "Алиса" для проверки лотерейных билетов. Клиент: "СТОЛОТО". Государственные лотереи. Ссылка: https://eora.ru/cases/navyki-dlya-golosovyh-assistentov/navyk-dlya-proverki-loterejnyh-biletov
+---
+Например, вот что мы делали: Система обнаружения посторонних предметов на днищах автомобилей с помощью нейросети. Заказчик: ISS — Интеллектуальные Системы Безопасности — компания-интегратор решений по безопасности. Ссылка: https://eora.ru/cases/computer-vision/iss-analiz-foto-avtomobilej
+---
+Например, вот что мы делали: Универсальный бот для сайтов Purina, которого можно постоянно обучать. Заказчик: Purina - дочерняя компания Nestle, производитель кормов для домашних животных. Ссылка: https://eora.ru/cases/chat-boty/purina-master-bot
+---
+Например, вот что мы делали: Модель, позволяющая подобрать оптимальную вероятность выпадения скинов из лутбоксов в компьютерных онлайн играх. Клиент: SkinClub - магазин скинов и лутбоксов. Ссылка: https://eora.ru/cases/computer-vision/skinclub-algoritm-dlya-ocenki-veroyatnostej
+---
+Например, вот что мы делали: Чат-бот, который знакомит инвесторов и резидентов «Сколково». Клиент: «Сколково» - инновационный центр. Ссылка: https://eora.ru/cases/chat-boty/skolkovo-chat-bot-dlya-startapov-i-investorov
+---
+Например, вот что мы делали: Чат-бот, который определяет породу собаки по фото и даёт советы по питанию. Клиент: Purina - дочерняя компания Nestle, производитель кормов для домашних животных. Ссылка: https://eora.ru/cases/chat-boty/purina-podbor-korma-dlya-sobaki
+---
+Например, вот что мы делали: Викторина в "Алисе" с вопросами об уходе за кошками. Заказчики: Mindshare, Nestle (PURINA). Ссылка: https://eora.ru/cases/navyki-dlya-golosovyh-assistentov/purina-navyk-viktorina
+---
+Например, вот что мы делали: Бот для контактного центра «ДОДО пиццы», который понимает, что говорят клиенты, и помогает им по мере возможности. Клиент: «Додо Пицца» - сеть пиццерий, одна из крупнейших сетей общепита в России. Ссылка: https://eora.ru/cases/roboty-dlya-koll-centra/dodo-pizza-pilot-po-avtomatizacii-kontakt-centra
+---
+Например, вот что мы делали: Бот для телефонии, помогающий разгрузить контаккт-центр "ДОДО пиццы". Клиент: «Додо Пицца» - сеть пиццерий, одна из крупнейших сетей общепита в России. Ссылка: https://eora.ru/cases/roboty-dlya-koll-centra/dodo-pizza-avtomatizaciya-kontakt-centra
+---
+Например, вот что мы делали: Бот-справочник, суфлирующий операторам контакт-центра. В основе лежит виджет для сайта энергокомпании, чтобы автоматически отвечать на некоторые вопросы клиентов и «разгружать» контакт-центр. Клиенты: ICL (Разработчик ИТ-сервисов для бизнеса) и "Сетевая Компания" (Крупнейшая электросетевая компания Татарстана). Ссылка: https://eora.ru/cases/roboty-dlya-koll-centra/icl-bot-sufler-dlya-kontakt-centra
+---
+Например, вот что мы делали: Навык для "Алисы" и чат-бот, который подбирает авиабилеты. Клиент: S7 Airlines - Крупнейшая частная авиакомпания в России. Ссылка: https://eora.ru/cases/navyki-dlya-golosovyh-assistentov/s7-navyk-dlya-podbora-aviabiletov
+---
+Например, вот, что мы делали: Бот для бесконтактной покупки питания через WhatsApp. Заказчик: WorkEat. Ссылка: https://eora.ru/cases/chat-boty/workeat-whatsapp-bot
+---
+Например, вот, что мы делали: Навык для "Алисы", помогающий рассчитать страховку, оформить страховку и быстро ответит на ваши вопросы по страховым продуктам. Клиент: "Абсолют Страхование". Ссылка: https://eora.ru/cases/navyki-dlya-golosovyh-assistentov/navyk-dlya-raschyota-strahovki
+---
+Например, вот, что мы делали: Система, позволяющая искать товары по фотографии на сайте интернет-магазина. Заказчик: KazanExpress.ru — маркетплейс китайских и российских товаров с бесплатной доставкой за один день. Ссылка: https://eora.ru/cases/poisk-po-foto/kazanexpress-poisk-tovarov-po-foto
+---
+Например, вот, что мы делали: Cистема персональных рекомендаций на сайте KazanExpress. Заказчик: KazanExpress.ru — маркетплейс китайских и российских товаров с бесплатной доставкой за один день. Ссылка: https://eora.ru/cases/computer-vision/kazanexpress-sistema-rekomendacij-na-sajte
+---
+Например, вот, что мы делали: Система, позволяющая быстро проверить логотип на плагиат. Заказчик: ИНТЭЛСОНЛАЙН — крупное патентное бюро. Занимается сохранением интеллектуальной собственности. Работает с 1988 года. Ссылка: https://eora.ru/cases/poisk-po-foto/intels-proverka-logotipa-na-plagiat
+---
+Например, вот, что мы делали: Навык в "Алисе" в виде викторины с вопросами про уборку. Заказчик: «Karcher. Ссылка: https://eora.ru/cases/navyki-dlya-golosovyh-assistentov/viktorina-s-voprosami-pro-uborku
+---
+Например, вот, что мы делали: Чат-бот в виджете на промо-сайте и основном сайте Purina. Заказчик: Рекламное агентство Mindshare для PURINA Friskies — производителя корма для домашних питомцев. Связанный проект: Purina Мастер-бот. Универсальный бот для сайтов Purina, созданный для уменьшения нагрузки на горячую линию. Ссылка: https://eora.ru/cases/chat-boty/purina-friskies-chat-bot-na-sajte
+---
+Например, вот, что мы делали: Нейросеть, которая сегментирует кадры мобильного видео и «ищет» на них человека. Клиент: разработчик популярного мобильного приложения для художественной обработки фото и видео. Само приложение входит в топ-10 App Store в категории «Фото и видео». Ссылка: https://eora.ru/cases/computer-vision/nejroset-segmentaciya-video
+---
+Например, вот, что мы делали: Нейросеть, которая добавляет в видео анимацию и яркие цвета. Клиент: Рекламное агентство APM – партнёр AB InBev Efes, производителя пива и безалгокольных напитков в России и Украине. Ссылка: https://eora.ru/cases/chat-boty/essa-nejroset-dlya-generacii-rolikov
+---
+Например, вот, что мы делали: Модель, объясняющая аномалии в транзакциях QIWI. Клиент: QIWI — популярная электронная платежная система. Ссылка: https://eora.ru/cases/computer-vision/qiwi-poisk-anomalij
+---
+Например, вот, что мы делали: Нейросеть для распознавания показаний счетчиков. Клиент: "ФРИСБИ". Ссылка: https://eora.ru/cases/computer-vision/nejroset-dlya-raspoznavaniya-pokazanij-schetchikov
+---
+Например, вот, что мы делали: Навык в Google Assistant, который читает ребенку сказки перед сном. Клиент: Крупный российский бренд детского питания. Ссылка: https://eora.ru/cases/navyki-dlya-golosovyh-assistentov/skazki-dlya-gugl-assistenta
+---
+Например, вот, что мы делали: Бот для компании Магнит, который самостоятельно приглашает кандидатов на собеседование. Клиент: «Магнит» — сеть розничных магазинов. Ссылка: https://eora.ru/cases/chat-boty/hr-bot-dlya-magnit-kotoriy-priglashaet-na-sobesedovanie
