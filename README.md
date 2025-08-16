@@ -2,7 +2,7 @@
 
 ## Simple AI chat bot for clients with CLI
 
-AI chat bot for clients who want to know more about EORA company. It uses RAG technique and provides very ascetic CLI fo user to send queries and to get bot replies.
+AI chat bot for clients who want to know more about EORA company. It uses RAG (Retrieval Augmented Generation) technique and provides very ascetic CLI fo user to send queries and to get bot replies.
 
 It uses:
 
