@@ -16,7 +16,6 @@ It uses:
 1. Create virtual environment and activate it:
 ```
 # Linux
-cd cryptowl
 python3 -m venv .venv
 . .venv/bin/activate
 
